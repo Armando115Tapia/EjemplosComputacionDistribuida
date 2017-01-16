@@ -1,3 +1,10 @@
+/*para la implementacion de este programa se utilizo como referencia 
+el siguiente programa:
+ 
+
+
+*/
+
 #include <stdlib.h>
 #include <unistd.h>
 #include <syslog.h>
